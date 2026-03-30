@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "copilot/research-repository-architecture",
+    "fix/issue-464-batch-11_20",
+    "fix/revert-unsafe-production-upgrades",
+    "main",
+    "maint/wave-readiness-controls",
+    "origin",
+    "wave-2-ci-baseline"
+  ],
+  "parent": {
+    "copilot/research-repository-architecture": "main",
+    "fix/issue-464-batch-11_20": "main",
+    "fix/revert-unsafe-production-upgrades": "main",
+    "main": null,
+    "maint/wave-readiness-controls": "main",
+    "origin": "main",
+    "wave-2-ci-baseline": "main"
+  },
+  "order": [
+    "main",
+    "copilot/research-repository-architecture",
+    "fix/issue-464-batch-11_20",
+    "fix/revert-unsafe-production-upgrades",
+    "maint/wave-readiness-controls",
+    "origin",
+    "wave-2-ci-baseline"
+  ]
+}
